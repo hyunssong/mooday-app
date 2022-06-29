@@ -1,0 +1,6 @@
+{
+  "BERT_MODEL": "distilbert-base-cased",
+  "PRE_TRAINED_MODEL": "app/assets/model.bin",
+  "CLASS_NAMES": ["negative", "neutral", "positive"],
+  "MAX_SEQUENCE_LEN": 256
+}

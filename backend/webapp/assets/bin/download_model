@@ -1,0 +1,6 @@
+import gdown
+
+gdown.download(
+"https://drive.google.com/drive/u/0/folders/1JH8j-s6yY7XeCN-OaNL_hgx2IXCjrbuz",
+"model.bin",
+)
