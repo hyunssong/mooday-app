@@ -4,6 +4,7 @@ webapp/backend/auth/__pycache__
 webapp/backend/db/__pycache__
 webapp/backend/core/analysis/__pycache__
 webapp/backend/assets/model.bin
+webapp/backend/routers/__pycache__
 webapp/Include
 webapp/Lib
 webapp/Scripts
