@@ -1,5 +1,13 @@
-# Byte-compiled files
-__pycache__/
-# Environment files
-backend/webapp.env
-backend/webapp/assets/model.bin
+webapp/backend/__pycache__
+webapp/backend/.env
+webapp/backend/auth/__pycache__
+webapp/backend/db/__pycache__
+webapp/backend/core/analysis/__pycache__
+webapp/backend/assets/model.bin
+webapp/Include
+webapp/Lib
+webapp/Scripts
+webapp/share
+# frontend
+webapp/frontend/build
+webapp/frontend/node_modules

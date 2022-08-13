@@ -1,4 +1,0 @@
-webapp/.env
-webapp/auth/__pycache__
-webapp/db/__pycache__
-webapp/core/analysis/__pycache__

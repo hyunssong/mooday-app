@@ -1,3 +1,0 @@
-#!/bin/bash
-
-uvicorn analysis.api:app
