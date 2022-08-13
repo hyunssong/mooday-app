@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MooDAY
 
 MooDay is a webapp that recommends music based on the recent user mood. User mood is analyzed and classified into three categories (Positive/Neutral/Negative), which is decided by sentiment analysis on recent user post.
