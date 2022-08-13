@@ -1,0 +1,14 @@
+webapp/backend/__pycache__
+webapp/backend/.env
+webapp/backend/auth/__pycache__
+webapp/backend/db/__pycache__
+webapp/backend/core/analysis/__pycache__
+webapp/backend/assets/model.bin
+webapp/backend/routers/__pycache__
+webapp/Include
+webapp/Lib
+webapp/Scripts
+webapp/share
+# frontend
+webapp/frontend/build
+webapp/frontend/node_modules

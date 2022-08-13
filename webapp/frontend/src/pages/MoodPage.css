@@ -1,0 +1,9 @@
+.title{
+    display: inline;
+    float:left;
+}
+
+MoodChart{
+    display: inline;
+    float:right;
+}
